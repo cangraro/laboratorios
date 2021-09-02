@@ -1,0 +1,5 @@
+^application/logs$
+^captcha$
+^adj_equipos$
+^adj_procedimientos$
+^tmp$

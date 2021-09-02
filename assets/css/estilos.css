@@ -1,0 +1,24 @@
+a.back-to-top {
+	width: 60px;
+	height: 60px;
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+	/*text-indent: -9999px;*/
+	position: fixed;
+	z-index: 1999;
+	right: 20px;
+	bottom: 20px;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+  background-color: #d2d6de;
+}
+.error{
+	background-color: #ff5555;
+	color:white;
+}
+.bloque_comercial{
+	border-top: 1px #002e6c solid;
+
+}
